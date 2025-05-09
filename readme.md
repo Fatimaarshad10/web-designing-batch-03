@@ -2,7 +2,7 @@
 
 ![Web Designing Course Banner](./fatima.jpeg)
 
-## 📚 Course Overview
+##  Course Overview
 
 Welcome to the **Web Designing Batch 03** course!  
 This 4-month course covers essential tools and technologies to kickstart your journey into web design and development.
@@ -24,7 +24,7 @@ This 4-month course covers essential tools and technologies to kickstart your jo
 
 ---
 
-## 🗓 Schedule
+## Schedule
 
 ### Web Designing
 
