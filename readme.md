@@ -35,6 +35,8 @@ This 4-month course covers essential tools and technologies to kickstart your jo
 | Day 03: Wednesday, 21/05/2025   | Ms Word      | Insert Section
 | Day 04: Wednesday, 28/05/2025   | Ms Word      | Layout Section
 | Day 05: Wednesday, 04/06/2025   | Ms Word , Ms PowerPoint      | Reference Section , Intro Powerpoint
-| Day 05: Wednesday, 11/06/2025   | Ms PowerPoint      | How to create a ChatBot
+| Day 06: Wednesday, 11/06/2025   | Ms PowerPoint      | How to create a ChatBot
+| Day 07: Wednesday, 18/06/2025   | Ms Excel      | Home page and formula
+
 
 
