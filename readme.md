@@ -41,6 +41,8 @@ This 4-month course covers essential tools and technologies to kickstart your jo
 | Day 09: Wednesday, 02/07/2025   | HTML          | Installation Visual Studio Code , Html Structure
 | Day 10: Wednesday, 09/07/2025   | Word , Excel , Powerpoint          | Mid Test
 | Day 11: Wednesday, 16/07/2025   | HTML        | Headings, ordered & unordered , anchor tag , Image tag , Table 
+| Day 12: Wednesday, 23/07/2025   | HTML        | Form , Style Attributes
+
 
 
 
