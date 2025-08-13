@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .box {
+            display: flex;
+            gap: 20px;
+        }
+
+        .card {
+            background-color: brown;
+            text-align: center;
+            border: 2px solid black;
+            width: 50%;
+        }
+
+        img {
+            width: 50%;
+            border-radius: 50%;
+        }
+        /* max-width : 300px  */
+        /* min-width  : 500px*/
+
+        @media (max-width : 400px) {
+            .card {
+                background-color: rgb(255, 212, 212);
+                width: 100%;
+
+            }
+            .box {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Responsive -> percentage ,  rem , em units , media query -->
+    <div class="box">
+        <div class="card">
+            <h1>Card no 01</h1>
+            <img src="./pexels-photo-414612.jpeg" />
+            <p>Card card .......</p>
+        </div>
+        <div class="card">
+            <h1>Card no 01</h1>
+            <img src="./pexels-photo-414612.jpeg" />
+            <p>Card card .......</p>
+        </div>
+        <div class="card">
+            <h1>Card no 01</h1>
+            <img src="./pexels-photo-414612.jpeg" />
+            <p>Card card .......</p>
+        </div>
+    </div>
+</body>
+
+</html>

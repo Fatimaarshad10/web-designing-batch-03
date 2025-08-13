@@ -42,6 +42,9 @@ This 4-month course covers essential tools and technologies to kickstart your jo
 | Day 10: Wednesday, 09/07/2025   | Word , Excel , Powerpoint          | Mid Test
 | Day 11: Wednesday, 16/07/2025   | HTML        | Headings, ordered & unordered , anchor tag , Image tag , Table 
 | Day 12: Wednesday, 23/07/2025   | HTML        | Form , Style Attributes
+| Day 13: Wednesday, 03/08/2025   | CSS         | Font , display
+| Day 14: Wednesday, 13/08/2025   | Bootstrap   | Navbar , button
+
 
 
 
