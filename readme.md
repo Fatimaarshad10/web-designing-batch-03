@@ -45,6 +45,9 @@ This 4-month course covers essential tools and technologies to kickstart your jo
 | Day 13: Wednesday, 03/08/2025   | CSS         | Font , display
 | Day 14: Wednesday, 13/08/2025   | Bootstrap   | Navbar , button
 | Day 15: Wednesday, 20/08/2025   | Bootstrap   | Full Web Page
+| Day 16: Wednesday, 03/09/2025   | Final Test  | Final Test
+
+
 
 
 
